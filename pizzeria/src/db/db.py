@@ -2,11 +2,11 @@
 pizza = [
     {
         'tipo': 'Vegetariana',
-        'sabores' : ['tofu', 'pimiento']
+        'sabores' : ['tofu', 'pimiento', 'hawaiana']
      },
     {
         'tipo': 'No Vegetariano',
-        'sabores' : ['peperoni', 'jamon', 'salmon', 'salchicha']
+        'sabores' : ['peperoni', 'jamon' 'salchicha', 'pollo', 'jamoneta']
      },
 
 ]
