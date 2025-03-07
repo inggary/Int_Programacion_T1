@@ -17,7 +17,7 @@ if((menu<=len(pizza)) & (menu>=1)):
     print(f'Su pizza sera "{pizza[menu-1]["tipo"]}" tendra el ingrediente: {pizza[menu-1]["sabores"][menu_2-1]}')
 
   else:
-    print("Error")
+    print("Error en el codigo")
 
 else:
   print("Error")
